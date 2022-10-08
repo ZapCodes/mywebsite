@@ -86,3 +86,7 @@ input {
 .bg-near-white {
   background-color: #000000;
 }
+
+.menu-item-link .iconfont {
+  display: none;
+}
