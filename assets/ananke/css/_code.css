@@ -1,0 +1,88 @@
+pre, .pre  {
+  overflow-x: auto;
+  overflow-y: hidden;
+  overflow:   scroll;
+}
+
+
+pre  code {
+  display: block;
+  padding: 1.5em 1.5em;
+  white-space: pre;
+  font-size: .875rem;
+  line-height: 2;
+
+}
+
+pre {
+  background-color: rgb(0, 0, 0);
+  color: rgb(235, 135, 135);
+  white-space: pre;
+
+  hyphens: none;
+  position: relative;
+}
+
+.pv4 {
+  background-color: white;
+
+}
+
+.pb7 {
+  background-color: black;
+
+
+}
+
+.nested-copy-line-height ol, .nested-copy-line-height p, .nested-copy-line-height ul {
+  background-color: rgb(0, 0, 0);
+  color: white;
+
+}
+h1 {
+  font-size: 2em;
+  margin: .67em 0;
+  color: yellowgreen;
+}
+
+.h1 {
+  color: white;
+}
+
+.lh-title {
+  line-height: 1.25;
+  color: green
+}
+
+.fw1  {
+  color: green
+
+}
+
+.white-90 {
+  color: rgba(21, 255, 0, 0.9);
+}
+
+pre code {
+  display: block;
+  padding: 1.5em;
+  white-space: pre;
+  font-size: .875rem;
+  line-height: 2;
+  background-color: gray;
+  color: white;
+}
+
+.border-box {
+  box-sizing: border-box;
+  background-color: black;
+}
+
+input {
+  background-color: green;
+
+}
+
+.bg-near-white {
+  background-color: #000000;
+}
